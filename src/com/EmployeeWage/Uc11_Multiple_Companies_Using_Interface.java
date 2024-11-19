@@ -9,7 +9,7 @@ interface IEmpWageBuilder {
     void displayTotalWages();
 }
 
-public class Uc11_Multiple_Companies_Using_Interface {
+public class Uc11_Multiple_Companies_Using_Interface  {
 
     static class CompanyEmpWage {
         private String companyName;
